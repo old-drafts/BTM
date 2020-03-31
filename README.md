@@ -11,8 +11,8 @@ New(Now):Main.js
 
 How To Using:
 
-`npm install meowslib`
-
 `cd BTM`
+
+`npm install meowslib`
 
 `node Main`
