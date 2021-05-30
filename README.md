@@ -9,10 +9,9 @@ Old:jzm.js
 
 New(Now):Main.js
 
-How To Using:
-
-`cd BTM`
-
-`npm install meowslib`
-
-`node Main`
+How To Use:
+```sh
+  cd BTM
+  npm install meowslib
+  node Main
+  ```
